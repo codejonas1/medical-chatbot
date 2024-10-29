@@ -1,4 +1,3 @@
-import json
 import torch
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 from torch.utils.data import DataLoader
